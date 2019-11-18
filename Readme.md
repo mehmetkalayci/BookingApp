@@ -1,4 +1,3 @@
 Booking App
 
-Graphql backend
-MongoDb
+Graphql backend, MongoDb
